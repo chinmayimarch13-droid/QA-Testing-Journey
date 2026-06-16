@@ -1,0 +1,7 @@
+Automation Testing Practice
+
+* Installed Selenium
+* Opened website using Selenium
+* Used XPath locators
+* Automated login functionality
+* Used Explicit Waits to handle page loading
